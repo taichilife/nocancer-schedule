@@ -6,6 +6,8 @@ node_modules/
 public/
 .deploy*/
 
+package-lock.json
+
 #Ulysses
 .Ulysses-favorites.plist
 .Ulysses-Group.plist
