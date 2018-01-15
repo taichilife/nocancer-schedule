@@ -1,3 +1,15 @@
+.DS_Store
+Thumbs.db
+db.json
+*.log
+node_modules/
+public/
+.deploy*/
+
+#Ulysses
+.Ulysses-favorites.plist
+.Ulysses-Group.plist
+
 # Logs
 logs
 *.log
@@ -56,4 +68,3 @@ typings/
 
 # dotenv environment variables file
 .env
-
