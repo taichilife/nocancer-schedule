@@ -13,7 +13,7 @@ timezone:
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: https://taichilife.github.io
-root: /www.nocancer.info/
+root: /nocancer.info/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
@@ -72,10 +72,10 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: very-simple
+theme: zzoman2015
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/taichilife/www.nocancer.info.git
+  repo: https://github.com/taichilife/nocancer.info.git
